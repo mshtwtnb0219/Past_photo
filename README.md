@@ -19,10 +19,12 @@ DB sqllite
     <string name="vision_api_key">取得したキーを記載</string>
 
 
+★vison-api-keyの取得方法について
 参考URL↓
-https://cloud.google.com/vision/docs/ocr?hl=ja
+https://cloud.google.com/vision/docs/ocr?hl=ja  
 
 
+★画面★
 ![メイン画面](https://github.com/mshtwtnb0219/Past_photo/assets/77442526/6ff32a87-4b3b-4f42-a450-78f87b9918e4)
 ![元データヘルプ表示画面](https://github.com/mshtwtnb0219/Past_photo/assets/77442526/cccac6d9-e727-4acf-b6ba-85c63288dd6b)
 ![スクリーンショット 2024-03-13 002733](https://github.com/mshtwtnb0219/Past_photo/assets/77442526/22719adf-125d-4e8f-9e19-b11738da9bd8)
