@@ -12,11 +12,11 @@ DB sqllite
 ★APIキーについて★
 利用したい場合はMyTest/app/src/main/res/values/strings.xmlの以下の内容を修正
 
->    <!--追加-->
->    <!-- Vision APIのAPIキーを設定 -->
->    <!-- 例えば、APIキーが「abcdefg12345」の場合次のように指定します -->
->   <!-- このプロジェクトを動作させたい場合自身でAPIキーを発行してください-->
->    <string name="vision_api_key">AIzaSyBBH2TV6Dr9yDGwD2KVB-5FmZlD9CAxOzU</string>
+    <!--追加-->
+    <!-- Vision APIのAPIキーを設定 -->
+    <!-- 例えば、APIキーが「abcdefg12345」の場合次のように指定します -->
+    <!-- このプロジェクトを動作させたい場合自身でAPIキーを発行してください-->
+    <string name="vision_api_key">取得したキーを記載</string>
 
 
 参考URL↓
