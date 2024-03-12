@@ -9,7 +9,7 @@
 DB sqllite  
 ビルドツール gradle
 
-★APIキーについて★
+★APIキーについて★  
 利用したい場合はMyTest/app/src/main/res/values/strings.xmlの以下の内容を修正
 
     <!--追加-->
